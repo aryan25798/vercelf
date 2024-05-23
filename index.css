@@ -1,0 +1,62 @@
+/* Custom styles for improved visual appeal */
+
+/* Update the color scheme */
+.bg-dark {
+    background-color: #343a40 !important; /* Darker shade of gray */
+}
+
+.navbar-dark .navbar-brand {
+    color: #fff; /* White color for navbar brand */
+}
+
+.nav-link,
+.navbar-toggler-icon {
+    color: #fff; /* White color for navbar links and toggler */
+}
+
+.card-footer {
+    background-color: #212529; /* Dark background for card footer */
+}
+
+.card-footer p {
+    color: #fff; /* White color for text in card footer */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Primary button color */
+    border-color: #007bff; /* Primary button border color */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}
+
+/* Update typography */
+body {
+    font-family: 'Roboto', sans-serif; /* Use Roboto font for better readability */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif; /* Use Montserrat for headings */
+    font-weight: bold; /* Bold headings */
+}
+
+/* Additional styles */
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for carousel captions */
+    padding: 10px; /* Add padding to captions */
+    border-radius: 5px; /* Rounded corners for captions */
+}
+
+.carousel-caption h5 {
+    color: #fff; /* White color for carousel caption headings */
+}
+
+.carousel-caption p {
+    color: #f8f9fa; /* Lighter color for carousel caption text */
+}
+
+.btn-danger:hover {
+    background-color:green;
+  
+  }

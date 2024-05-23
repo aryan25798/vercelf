@@ -1,0 +1,29 @@
+.login-btn {
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  } 
+  .btn:hover{
+    background-color: green;
+  }
+  
+  .container{
+    width: 100%;
+  overflow: hidden;
+  }
+  .container img{
+    width: 100%; 
+  height: auto; 
+  max-height: 400px;
+  }
+  .linkk:hover{
+    text-transform:lowercase;
+    font-weight: 800;
+  }
+  .button:hover{
+    background-color: green;
+  }
+  
+  

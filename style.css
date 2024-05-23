@@ -1,0 +1,22 @@
+.blockquote:hover{
+        font-size: large;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: darkgreen;
+        font-weight: 900;    
+}
+.questions:hover {
+    font-weight: bold;
+    text-decoration: underline;
+}
+.login-btn {
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  } 
+  .btn:hover{
+    background-color: green;
+  }
+  
+  
